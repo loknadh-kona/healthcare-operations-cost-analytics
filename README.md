@@ -121,7 +121,7 @@ Applying the CMS average Medicare readmission cost of **$15,200 per event**, exc
 ## 📁 Repository Structure
 
 ```text
-hospital-readmission-cms-analysis/
+hospital-readmission-analysis/
 |
 |-- sql/
 |   |-- 01_create_tables.sql       # DB + staging tables, BULK INSERT raw CMS data
